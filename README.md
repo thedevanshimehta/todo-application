@@ -4,24 +4,24 @@ The application allows users to create, edit, complete, and delete tasks with a 
 This project was developed as part of my first internship, focusing on clean code, usability, and basic best practices.
 
 1. Core Functionality
-Add new tasks
-Edit existing tasks
-Mark tasks as Complete / Incomplete
-Delete tasks
-Tasks persist using a MySQL database
+a.Add new tasks
+b.Edit existing tasks
+c.Mark tasks as Complete / Incomplete
+d.Delete tasks
+e.Tasks persist using a MySQL database
 
 2. UI & UX
-Light / Dark mode
-Multiple color themes (Blue, Green, Slate)
-Responsive design (mobile-friendly)
-Glassmorphism-based UI
-Input validation with visual feedback
+a.Light / Dark mode
+b.Multiple color themes (Blue, Green, Slate)
+c.Responsive design (mobile-friendly)
+d.Glassmorphism-based UI
+e.Input validation with visual feedback
 
 3. Technical
-REST API using Express
-React functional components with hooks
-State management using useState and useEffect
-LocalStorage for theme persistence
+a.REST API using Express
+b.React functional components with hooks
+c.State management using useState and useEffect
+d.LocalStorage for theme persistence
 
 4.Tech Stack
 a. Frontend
